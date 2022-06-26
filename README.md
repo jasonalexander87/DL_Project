@@ -4,3 +4,5 @@ Tα δύο .ipynb αφορούν το script που έτρεξε στο colab γ
 Τα δύο .ipynb κατεβάζουν τα dataset από google drive. Δέν μπόρεσα να τα βάλω στο github λόγω μεγέθους.
 Το requirements.txt δημιουργήθηκε δημιουργόντας ένα αρχείο με όλα τα imports από τα ipynb και εγκαθιστώντας ότι έλειπε στο virtual enviroment όταν το εκτελούσα.
 Ελπίζω να μην λείπει κάτι.
+Το δεύτερο dataset είναι αυτό https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
+Το πρώτο dataset είναι αυτό https://datasets.simula.no/image-sentiment/
