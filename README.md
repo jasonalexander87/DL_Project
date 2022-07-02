@@ -8,3 +8,4 @@ Tα δύο .ipynb αφορούν το script που έτρεξε στο colab γ
 Το πρώτο dataset είναι αυτό https://datasets.simula.no/image-sentiment/
 
 Πραγματοποιήθηκε προσθήκη υλικού. Στον φάκελο Experiment υπάρχει το .ipynb με το trainning στο dataset όπου έχουμε ενώσει τις κλάσεις 1-3 ως negative,τις κλάσεις 4-6 Neutral και τις κλάσεις 7-9 ως Positive. Επίσης υπάρχει και το αλλαγμένο script1 όπου επιλέγουμε label με βάση majority vote απο τους 5 annotators.
+Επίσης προστέθηκε το updated report που περιγράφει το επιπλέον πείραμα που πραγματοποιήσαμε.
